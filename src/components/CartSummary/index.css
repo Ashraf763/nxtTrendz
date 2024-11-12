@@ -1,0 +1,28 @@
+.cart-summary-container {
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+}
+
+.cart-summary-heading {
+  font-size: 21px;
+  color: #616e7c;
+  font-family: 'Roboto';
+}
+
+.price {
+  color: black;
+  font-size: 26px;
+}
+
+.length {
+  color: #616e7c;
+}
+
+.checkout-btn {
+  background-color: #0b69ff;
+  border: 0;
+  border-radius: 8px;
+  color: white;
+  padding: 8px 15px;
+}
